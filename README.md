@@ -104,7 +104,7 @@ The project demonstrates **CRUD operations, transaction management, and clean DA
 2. Run the SQL script `college_db.sql` in MySQL to set up the database
 3. Update **DBConnection.java** with your MySQL credentials
 4. Add **MySQL Connector/J** to the classpath
-5. Run `MainApp.java` and follow the menu
+5. Run `Main.java` and follow the menu
 
 ---
 
